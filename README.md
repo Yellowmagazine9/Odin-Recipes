@@ -7,7 +7,9 @@ I have now done my first commit, i really don't know if i did it right but i ass
 
 i have now added a image to the website and i am now going to add links to the recipe pages and add all the information for the recipes. I will use unordered lists for the ingredients and the i will use a ordered lists for the the step by step guide on how to make it.
 
-I have now created the main page with header text and a picture eof a aline bar. i have also created an unordered list where i put the links to the recipes.
+I have now created the main page with header text and a picture of a alien bar. i have also created an unordered list where i put the links to the recipes.
 The recipes page has header text, picture, some text under describing what the recipe is and some info. Under that i have an unordered list where i put all the ingredients and under that i have an ordered list where i go through a step by step guide on how to make the recipe. 
 
 right now i am on my second recipe and i have committed a couple of time where is state my changes and what i have added. Even though this is only the start i feeling like im getting the grasp of things.
+
+i have now i completed the scooby snacks page where i added the same stuff that i added on the other recipe page. i added a header, picture, description, two lists. one unordered and one ordered and at the bottom i added a link to take you back to the main page.
